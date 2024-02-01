@@ -76,7 +76,6 @@ CREATE TABLE `student` (
 --
 
 INSERT INTO `student` (`student_id`, `fullname`, `nickname`, `lecturer_id`) VALUES
-(1, 'fakyu', 'fak', 2),
 (2, 'Tes123', 'Tes', 1),
 (8, 'Raihan', 'Tes', 1),
 (9, 'Raihan', 'Tes', 0),
